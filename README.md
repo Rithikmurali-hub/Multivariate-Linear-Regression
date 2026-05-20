@@ -40,7 +40,7 @@ print(regression.predict([[3300,1300]]))
 
 ```
 ## Output:
-![alt text](<Screenshot 2026-05-20 091706.png>)
+![alt text](<Screenshot 2026-05-20 091916.png>)
 
 
 ## Result
